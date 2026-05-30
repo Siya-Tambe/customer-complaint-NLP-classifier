@@ -116,3 +116,5 @@ Raw Text → Clean Text → TF-IDF Vectors → Logistic Regression → Category 
 *This project is part of a connected finance analytics portfolio:*
 - **Project 2** — EMI Loan Default Predictor (who will default?)
 - **Project 3** — Financial Complaint Classifier (what will they complain about?) ← you are here
+
+📓 [View Notebook on nbviewer](https://nbviewer.org/github/Siya-Tambe/customer-complaint-NLP-classifier/blob/main/customer_complaint_NLP_classifier.ipynb)
